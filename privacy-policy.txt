@@ -1,0 +1,21 @@
+PRIVACY POLICY FOR FLASH BOMB
+
+Effective Date: May 13, 2026
+
+1. Introduction
+This Privacy Policy explains how we collect, use, and share information about you when you play the "Flash Bomb" mobile game.
+
+2. Information We Collect
+We DO NOT collect any personal identifiable information such as your name, email address, or phone number.
+We only collect non-personal data necessary for displaying advertisements:
+- Device Identifiers: We collect Device IDs (such as Apple's IDFA) to serve relevant ads.
+- Advertising Data: We collect information about ad views and app interactions via Google AdMob.
+
+3. Third-Party Services
+Our game uses Google AdMob for displaying advertisements. AdMob may collect and process data to personalize ads. You can learn more about how Google uses data at: https://policies.google.com/technologies/partner-sites
+
+4. Tracking & Opt-Out
+We respect your privacy. You can opt-out of personalized advertising at any time by selecting "Ask App Not to Track" when prompted on your iOS device, or by adjusting the tracking settings in your iPhone's Settings > Privacy & Security > Tracking.
+
+5. Contact Us
+If you have any questions about this Privacy Policy, please contact us via our official App Store support link.
